@@ -1,5 +1,0 @@
-<b>
-    <i>
-ERROR unexpected tag: </b>
-    </i>
-ERROR unclosed tag: <b>
