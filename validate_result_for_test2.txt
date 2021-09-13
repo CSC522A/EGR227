@@ -1,6 +1,0 @@
-<html>
-    <b>
-        <i>
-        </i>
-ERROR unclosed tag: <b>
-ERROR unclosed tag: <html>
