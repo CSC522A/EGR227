@@ -1,0 +1,6 @@
+Welcome to hangman game.
+
+What length word do you want to use? 23
+How many wrong answers allowed? 42
+
+No words of that length in the dictionary.

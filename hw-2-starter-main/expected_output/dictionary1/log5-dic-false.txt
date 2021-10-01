@@ -1,0 +1,79 @@
+Welcome to hangman game.
+
+What length word do you want to use? 5
+How many wrong answers allowed? 10
+
+guesses : 10
+guessed : []
+current : - - - - -
+Your guess? o
+Sorry, there are no o's
+
+guesses : 9
+guessed : [o]
+current : - - - - -
+Your guess? e
+Sorry, there are no e's
+
+guesses : 8
+guessed : [e, o]
+current : - - - - -
+Your guess? i
+Sorry, there are no i's
+
+guesses : 7
+guessed : [e, i, o]
+current : - - - - -
+Your guess? a
+Sorry, there are no a's
+
+guesses : 6
+guessed : [a, e, i, o]
+current : - - - - -
+Your guess? u
+Yes, there is one u
+
+guesses : 6
+guessed : [a, e, i, o, u]
+current : - u - - -
+Your guess? y
+Sorry, there are no y's
+
+guesses : 5
+guessed : [a, e, i, o, u, y]
+current : - u - - -
+Your guess? g
+Sorry, there are no g's
+
+guesses : 4
+guessed : [a, e, g, i, o, u, y]
+current : - u - - -
+Your guess? t
+Sorry, there are no t's
+
+guesses : 3
+guessed : [a, e, g, i, o, t, u, y]
+current : - u - - -
+Your guess? n
+Sorry, there are no n's
+
+guesses : 2
+guessed : [a, e, g, i, n, o, t, u, y]
+current : - u - - -
+Your guess? s
+Yes, there is one s
+
+guesses : 2
+guessed : [a, e, g, i, n, o, s, t, u, y]
+current : - u - - s
+Your guess? l
+Sorry, there are no l's
+
+guesses : 1
+guessed : [a, e, g, i, l, n, o, s, t, u, y]
+current : - u - - s
+Your guess? m
+Sorry, there are no m's
+
+answer = bucks
+Sorry, you lose

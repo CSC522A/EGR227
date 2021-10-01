@@ -1,0 +1,103 @@
+Welcome to hangman game.
+
+What length word do you want to use? 10
+How many wrong answers allowed? 15
+
+guesses : 15
+guessed : []
+current : - - - - - - - - - -
+Your guess? e
+Sorry, there are no e's
+
+guesses : 14
+guessed : [e]
+current : - - - - - - - - - -
+Your guess? o
+Sorry, there are no o's
+
+guesses : 13
+guessed : [e, o]
+current : - - - - - - - - - -
+Your guess? a
+Sorry, there are no a's
+
+guesses : 12
+guessed : [a, e, o]
+current : - - - - - - - - - -
+Your guess? i
+Yes, there are 2 i's
+
+guesses : 12
+guessed : [a, e, i, o]
+current : - - - - i - - i - -
+Your guess? u
+Yes, there is one u
+
+guesses : 12
+guessed : [a, e, i, o, u]
+current : u - - - i - - i - -
+Your guess? y
+Sorry, there are no y's
+
+guesses : 11
+guessed : [a, e, i, o, u, y]
+current : u - - - i - - i - -
+Your guess? t
+Sorry, there are no t's
+
+guesses : 10
+guessed : [a, e, i, o, t, u, y]
+current : u - - - i - - i - -
+Your guess? g
+Yes, there are 2 g's
+
+guesses : 10
+guessed : [a, e, g, i, o, t, u, y]
+current : u - - - i - g i - g
+Your guess? n
+Yes, there are 2 n's
+
+guesses : 10
+guessed : [a, e, g, i, n, o, t, u, y]
+current : u - - - i n g i n g
+Your guess? l
+Sorry, there are no l's
+
+guesses : 9
+guessed : [a, e, g, i, l, n, o, t, u, y]
+current : u - - - i n g i n g
+Your guess? h
+Sorry, there are no h's
+
+guesses : 8
+guessed : [a, e, g, h, i, l, n, o, t, u, y]
+current : u - - - i n g i n g
+Your guess? m
+Sorry, there are no m's
+
+guesses : 7
+guessed : [a, e, g, h, i, l, m, n, o, t, u, y]
+current : u - - - i n g i n g
+Your guess? p
+Yes, there is one p
+
+guesses : 7
+guessed : [a, e, g, h, i, l, m, n, o, p, t, u, y]
+current : u p - - i n g i n g
+Your guess? r
+Sorry, there are no r's
+
+guesses : 6
+guessed : [a, e, g, h, i, l, m, n, o, p, r, t, u, y]
+current : u p - - i n g i n g
+Your guess? s
+Yes, there is one s
+
+guesses : 6
+guessed : [a, e, g, h, i, l, m, n, o, p, r, s, t, u, y]
+current : u p s - i n g i n g
+Your guess? w
+Yes, there is one w
+
+answer = upswinging
+You beat me

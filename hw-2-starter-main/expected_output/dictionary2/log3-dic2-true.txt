@@ -1,0 +1,77 @@
+Welcome to hangman game.
+
+What length word do you want to use? 4
+How many wrong answers allowed? 8
+
+guesses : 8
+words   : 9
+guessed : []
+current : - - - -
+Your guess? u
+Sorry, there are no u's
+
+guesses : 7
+words   : 9
+guessed : [u]
+current : - - - -
+Your guess? t
+Sorry, there are no t's
+
+guesses : 6
+words   : 8
+guessed : [t, u]
+current : - - - -
+Your guess? o
+Sorry, there are no o's
+
+guesses : 5
+words   : 5
+guessed : [o, t, u]
+current : - - - -
+Your guess? e
+Yes, there is one e
+
+guesses : 5
+words   : 2
+guessed : [e, o, t, u]
+current : - - e -
+Your guess? w
+Sorry, there are no w's
+
+guesses : 4
+words   : 1
+guessed : [e, o, t, u, w]
+current : - - e -
+Your guess? f
+Sorry, there are no f's
+
+guesses : 3
+words   : 1
+guessed : [e, f, o, t, u, w]
+current : - - e -
+Your guess? x
+Yes, there is one x
+
+guesses : 3
+words   : 1
+guessed : [e, f, o, t, u, w, x]
+current : - - e x
+Your guess? r
+Sorry, there are no r's
+
+guesses : 2
+words   : 1
+guessed : [e, f, o, r, t, u, w, x]
+current : - - e x
+Your guess? b
+Yes, there is one b
+
+guesses : 2
+words   : 1
+guessed : [b, e, f, o, r, t, u, w, x]
+current : - b e x
+Your guess? i
+Yes, there is one i
+
+answer = ibex
+You beat me

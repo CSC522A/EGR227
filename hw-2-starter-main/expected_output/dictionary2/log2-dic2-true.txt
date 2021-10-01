@@ -1,0 +1,63 @@
+Welcome to hangman game.
+
+What length word do you want to use? 4
+How many wrong answers allowed? 7
+
+guesses : 7
+words   : 9
+guessed : []
+current : - - - -
+Your guess? l
+Sorry, there are no l's
+
+guesses : 6
+words   : 4
+guessed : [l]
+current : - - - -
+Your guess? h
+Sorry, there are no h's
+
+guesses : 5
+words   : 3
+guessed : [h, l]
+current : - - - -
+Your guess? e
+Sorry, there are no e's
+
+guesses : 4
+words   : 1
+guessed : [e, h, l]
+current : - - - -
+Your guess? o
+Yes, there are 2 o's
+
+guesses : 4
+words   : 1
+guessed : [e, h, l, o]
+current : - o o -
+Your guess? f
+Sorry, there are no f's
+
+guesses : 3
+words   : 1
+guessed : [e, f, h, l, o]
+current : - o o -
+Your guess? c
+Sorry, there are no c's
+
+guesses : 2
+words   : 1
+guessed : [c, e, f, h, l, o]
+current : - o o -
+Your guess? g
+Yes, there is one g
+
+guesses : 2
+words   : 1
+guessed : [c, e, f, g, h, l, o]
+current : g o o -
+Your guess? d
+Yes, there is one d
+
+answer = good
+You beat me

@@ -1,0 +1,133 @@
+Welcome to hangman game.
+
+What length word do you want to use? 8
+How many wrong answers allowed? 14
+
+guesses : 14
+words   : 26448
+guessed : []
+current : - - - - - - - -
+Your guess? a
+Sorry, there are no a's
+
+guesses : 13
+words   : 13050
+guessed : [a]
+current : - - - - - - - -
+Your guess? o
+Sorry, there are no o's
+
+guesses : 12
+words   : 6690
+guessed : [a, o]
+current : - - - - - - - -
+Your guess? i
+Sorry, there are no i's
+
+guesses : 11
+words   : 1786
+guessed : [a, i, o]
+current : - - - - - - - -
+Your guess? u
+Sorry, there are no u's
+
+guesses : 10
+words   : 725
+guessed : [a, i, o, u]
+current : - - - - - - - -
+Your guess? e
+Yes, there are 3 e's
+
+guesses : 10
+words   : 95
+guessed : [a, e, i, o, u]
+current : - e - e - - e -
+Your guess? t
+Sorry, there are no t's
+
+guesses : 9
+words   : 52
+guessed : [a, e, i, o, t, u]
+current : - e - e - - e -
+Your guess? m
+Sorry, there are no m's
+
+guesses : 8
+words   : 43
+guessed : [a, e, i, m, o, t, u]
+current : - e - e - - e -
+Your guess? n
+Sorry, there are no n's
+
+guesses : 7
+words   : 32
+guessed : [a, e, i, m, n, o, t, u]
+current : - e - e - - e -
+Your guess? p
+Sorry, there are no p's
+
+guesses : 6
+words   : 29
+guessed : [a, e, i, m, n, o, p, t, u]
+current : - e - e - - e -
+Your guess? s
+Sorry, there are no s's
+
+guesses : 5
+words   : 17
+guessed : [a, e, i, m, n, o, p, s, t, u]
+current : - e - e - - e -
+Your guess? r
+Sorry, there are no r's
+
+guesses : 4
+words   : 4
+guessed : [a, e, i, m, n, o, p, r, s, t, u]
+current : - e - e - - e -
+Your guess? l
+Yes, there are 2 l's
+
+guesses : 4
+words   : 2
+guessed : [a, e, i, l, m, n, o, p, r, s, t, u]
+current : - e - e l l e -
+Your guess? b
+Sorry, there are no b's
+
+guesses : 3
+words   : 1
+guessed : [a, b, e, i, l, m, n, o, p, r, s, t, u]
+current : - e - e l l e -
+Your guess? c
+Sorry, there are no c's
+
+guesses : 2
+words   : 1
+guessed : [a, b, c, e, i, l, m, n, o, p, r, s, t, u]
+current : - e - e l l e -
+Your guess? h
+Sorry, there are no h's
+
+guesses : 1
+words   : 1
+guessed : [a, b, c, e, h, i, l, m, n, o, p, r, s, t, u]
+current : - e - e l l e -
+Your guess? d
+Yes, there is one d
+
+guesses : 1
+words   : 1
+guessed : [a, b, c, d, e, h, i, l, m, n, o, p, r, s, t, u]
+current : - e - e l l e d
+Your guess? j
+Yes, there is one j
+
+guesses : 1
+words   : 1
+guessed : [a, b, c, d, e, h, i, j, l, m, n, o, p, r, s, t, u]
+current : j e - e l l e d
+Your guess? w
+Yes, there is one w
+
+answer = jewelled
+You beat me
