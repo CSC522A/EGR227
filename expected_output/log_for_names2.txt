@@ -1,0 +1,15 @@
+Welcome to the EGR227 Assassin Manager
+
+What name file do you want to use this time? names2.txt
+Do you want the names shuffled? (y/n)? n
+
+Current kill ring:
+    Robinson Crusoe is stalking Friday
+    Friday is stalking Robinson Crusoe
+Current graveyard:
+
+next victim? Robinson Crusoe
+
+Game was won by Friday
+Final graveyard is as follows:
+    Robinson Crusoe was killed by Friday

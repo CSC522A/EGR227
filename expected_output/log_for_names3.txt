@@ -1,0 +1,25 @@
+Welcome to the EGR227 Assassin Manager
+
+What name file do you want to use this time? names3.txt
+Do you want the names shuffled? (y/n)? n
+
+Current kill ring:
+    Athos is stalking Porthos
+    Porthos is stalking Aramis
+    Aramis is stalking Athos
+Current graveyard:
+
+next victim? Aramis
+
+Current kill ring:
+    Athos is stalking Porthos
+    Porthos is stalking Athos
+Current graveyard:
+    Aramis was killed by Porthos
+
+next victim? Athos
+
+Game was won by Porthos
+Final graveyard is as follows:
+    Athos was killed by Porthos
+    Aramis was killed by Porthos

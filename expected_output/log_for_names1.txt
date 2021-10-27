@@ -1,0 +1,7 @@
+Welcome to the EGR227 Assassin Manager
+
+What name file do you want to use this time? names1.txt
+Do you want the names shuffled? (y/n)? n
+
+Game was won by Robinson Crusoe
+Final graveyard is as follows:
