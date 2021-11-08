@@ -1,0 +1,30 @@
+Welcome to Anagram Solver!
+
+What is the name of the dictionary file? eleven.txt
+
+Phrase to Scramble (return to quit)? eleven plus two
+Max Words to Include (0 for no max)? 0
+[one, plus, twelve]
+[one, twelve, plus]
+[plus, one, twelve]
+[plus, twelve, one]
+[twelve, one, plus]
+[twelve, plus, one]
+
+Phrase to Scramble (return to quit)? TWELVE WON ZeBra
+Max Words to Include (0 for no max)? 0
+[twelve, won, zebra]
+[twelve, zebra, won]
+[won, twelve, zebra]
+[won, zebra, twelve]
+[zebra, twelve, won]
+[zebra, won, twelve]
+
+Phrase to Scramble (return to quit)? gibberish
+Max Words to Include (0 for no max)? 0
+
+Phrase to Scramble (return to quit)? 1234
+Max Words to Include (0 for no max)? 0
+[]
+
+Phrase to Scramble (return to quit)? 

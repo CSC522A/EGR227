@@ -1,0 +1,27 @@
+Welcome to Anagram Solver!
+
+What is the name of the dictionary file? dict2.txt
+
+Phrase to Scramble (return to quit)? hugo chavez
+Max Words to Include (0 for no max)? 0
+[huh, zag, cove]
+[huh, cove, zag]
+[zag, huh, cove]
+[zag, cove, huh]
+[cove, huh, zag]
+[cove, zag, huh]
+
+Phrase to Scramble (return to quit)? howard dean
+Max Words to Include (0 for no max)? 2
+[don, warhead]
+[nod, warhead]
+[head, onward]
+[wade, hadron]
+[ahead, drown]
+[drown, ahead]
+[hadron, wade]
+[onward, head]
+[warhead, don]
+[warhead, nod]
+
+Phrase to Scramble (return to quit)? 
